@@ -1,0 +1,276 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RestaurantWebApplication
+build_property.RootNamespace = RestaurantWebApplication
+build_property.ProjectDir = C:\Users\Инна\Downloads\Telegram Desktop\RestaurantWebApplication\RestaurantWebApplication\RestaurantWebApplication\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Инна\Downloads\Telegram Desktop\RestaurantWebApplication\RestaurantWebApplication\RestaurantWebApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Chefs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Chefs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Chefs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Chefs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Chefs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Chefs/Specializations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcU3BlY2lhbGl6YXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Cities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Cities/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Cities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Cities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Cities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Countries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Countries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Countries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Countries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Countries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Dishes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Dishes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Dishes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Dishes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Dishes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Dishes/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXFByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Menus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Menus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Menus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Menus/Dishes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcRGlzaGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Menus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Menus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/ProductTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFR5cGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/ProductTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFR5cGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/ProductTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFR5cGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/ProductTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFR5cGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/ProductTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFR5cGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Restaurants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Restaurants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Restaurants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Restaurants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Restaurants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Restaurateurs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmF0ZXVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Restaurateurs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmF0ZXVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Restaurateurs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmF0ZXVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Restaurateurs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmF0ZXVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Restaurateurs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmF0ZXVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Roles/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Specialisations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGlzYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Specialisations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGlzYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Specialisations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGlzYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Specialisations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGlzYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Specialisations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGlzYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Инна/Downloads/Telegram Desktop/RestaurantWebApplication/RestaurantWebApplication/RestaurantWebApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lvj41k2nxd
